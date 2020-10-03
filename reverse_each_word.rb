@@ -1,4 +1,4 @@
 
 def reverse_each_word(word)
-  word.reverse!
+  word.reverse_inplace!
 end
